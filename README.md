@@ -34,8 +34,8 @@ Abaixo, organizado por tópico estão alguns dos meus interesses
   |     4|Java        |
   |     5|Python      |
 
-  Interesse na área de back-end e segurança da informação
-  Construir ou ajudar na construção/manutenção de algo útil para o meio acadêmico
+  * Interesse na área de back-end e segurança da informação
+  * Construir ou ajudar na construção/manutenção de algo útil para o meio acadêmico
 </details>
 
 ---
