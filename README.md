@@ -28,9 +28,9 @@ Abaixo, organizado por tópico estão alguns dos meus interesses
   
   | Rank | Linguagens |
   |:----:|:----------:|
-  |     1|C#          |
-  |     2|C           |
-  |     3|SQL         |
+  |     1|C           |
+  |     2|C++         |
+  |     3|C#          |
   |     4|Java        |
   |     5|Python      |
 
